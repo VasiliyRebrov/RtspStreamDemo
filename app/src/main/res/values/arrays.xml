@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Audio Preferences -->
+
+    <string-array name="channel_values">
+        <item>Stereo</item>
+        <item>Mono</item>
+    </string-array>
+
+    <string-array name="channel_entry_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
